@@ -1,4 +1,4 @@
-# ArtificialIntelligence
+# Artificial Intelligence
 
    In this solo project under Unity, I had to put an RTS game motion management AI.
 
